@@ -10,4 +10,4 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-CubeFS is a cloud-native distributed storage system hosted by the CNCF as an incubating project. 
+CubeFS is a cloud-native distributed file storage hosted by the CNCF as an incubating project. 
